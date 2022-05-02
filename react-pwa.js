@@ -1,5 +1,5 @@
 document.write('<scr' + 'ipt async src="https://www.googletagmanager.com/gtag/js?id=G-QNW5K71MZ0"></scr' + 'ipt>');
-
+document.write('<scr' + 'ipt async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3119327652471615" crossorigin="anonymous"></scr' + 'ipt>');
 window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
